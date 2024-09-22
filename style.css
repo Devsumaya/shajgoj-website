@@ -1,0 +1,205 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Montserrat", sans-serif;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 10px;
+}
+.logo-img{
+    margin-left: 60px;
+}
+.same-design-font{
+    
+    font-family: "Montserrat", sans-serif;
+    margin-right: 60px;
+    font-size: 10px;
+}
+.first-button{
+    font-size:15px;
+    height: 40px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 30px;
+    padding-right: 50px;
+}
+.second-buttonr{
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    
+}
+.third-button{
+    background-color: #F5F5F5;
+    font-size: 12px;
+    height: 40px;
+    width: 70px;
+    border:none;
+    border-radius:30px ;
+    
+}
+.third-button:hover{
+    color: #ff3d71;
+}
+.last-button{
+    background-color: #ff3d71;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 30px;
+}
+.hr{
+    padding-left: 60px;
+    padding-right: 60px;
+    opacity: 0.33;
+}
+
+/* second-div-design */
+
+.display-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 10px;
+}
+.font-sizess{
+    
+    font-family: "Montserrat", sans-serif;
+    
+}
+.button-one{
+    font-size: 12px;
+    height: 35px;
+    width: 138px;
+    background-color: #225CE4;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+.button-two{
+    font-size: 12px;
+    height: 35px;
+    width: 60px;
+    background-color: #E31041;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+.button-thri{
+    font-size: 12px;
+    height: 35px;
+    width: 88px;
+    background-color: #B047C9;
+    color:white;
+    border: none;
+    border-radius: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+.button-four{
+    font-size: 12px;
+    height: 35px;
+    width: 150px;
+    background-color: #09B5B5;
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+.button-five{
+    font-size: 12px;
+    height: 35px;
+    width: 45px;
+    background-color: #09B566;
+    color: white;
+    border: none;
+    border-radius: 35px;
+    font-family: "Montserrat", sans-serif;
+}
+.img-design{
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-bottom: 35px;  
+}
+
+.card-position{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+}
+.card-position-title{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 10px;
+    
+}
+.card-heading{
+    margin-left: 400px;
+    font-size: 14px;
+}
+.card-position-title-sumu{
+    margin-left: 60px;
+    margin-right: 60px;
+    
+}
+.card-heading-margin{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+}
+.third-banner-with{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: 270px;
+    margin-left: 60px;
+    
+}
+.background-light{
+    height: 130px;
+    width: 1300px;
+    background-color:rgb(107, 33, 168);
+}
+.div-color{
+    background-color: #192038;
+    height: 250px;
+    padding-left: 30px;
+}
+
+.color{
+    color: white;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 2px;
+}
+.sumus{
+    font-size: 28px;
+
+}
+.SHAJGOJ{
+    font-size: 35px;
+    color: white;
+    margin-top: 20px;
+}
+.display-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.colorss{
+    color:#ff3d71;
+    margin-bottom: 20px;
+}
+.footer-design{
+    text-align: center;
+}
