@@ -131,6 +131,7 @@ body{
     margin-left: 60px;
     margin-top: 40px;
     margin-bottom: 35px;  
+    padding-left: 120px;
 }
 
 .card-position{
@@ -163,12 +164,15 @@ body{
     margin-bottom: 40px;
     height: 270px;
     margin-left: 60px;
+    padding-left: 60px;
     
 }
 .background-light{
     height: 130px;
     width: 1300px;
     background-color:rgb(107, 33, 168);
+    padding-left: 50px;
+    margin-left: 25px;
 }
 .div-color{
     background-color: #192038;
@@ -202,4 +206,8 @@ body{
 }
 .footer-design{
     text-align: center;
+}
+.img-bnn{
+    padding-left: 30px;
+    
 }
